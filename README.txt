@@ -11,7 +11,7 @@ It's quick and dirty, but it works well for me.
 You can find LuRsT's version of hr (a shell script) here:
 https://github.com/LuRsT/hr
 You can find HalosGhost's version of hr here:
-https://github.com/LuRsT/.bin/blob/master/src/hr.c
+https://github.com/HalosGhost/.bin/blob/master/src/hr.c
 
 This program is released into the public domain without any warranty.
 
