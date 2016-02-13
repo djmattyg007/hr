@@ -13,5 +13,11 @@ https://github.com/LuRsT/hr
 You can find HalosGhost's version of hr here:
 https://github.com/HalosGhost/.bin/blob/master/src/hr.c
 
+INSTALLATION
+------------
+
+    (from the git repo)
+    $ sudo make install
+
 This program is released into the public domain without any warranty.
 
