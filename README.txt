@@ -1,3 +1,5 @@
+hr
+
 This is a port of LuRsT's hr to c, but with a different aim.
 
 Being a developer, I've always liked the idea of hr. However, I wasn't
@@ -13,5 +15,12 @@ https://github.com/LuRsT/hr
 You can find HalosGhost's version of hr here:
 https://github.com/HalosGhost/.bin/blob/master/src/hr.c
 
-This program is released into the public domain without any warranty.
+To build hr from source, you're going to need autoconf, automake and gcc
+installed:
 
+1. ./bootstrap
+2. ./configure
+3. make
+4. make install
+
+This program is released into the public domain without any warranty.
